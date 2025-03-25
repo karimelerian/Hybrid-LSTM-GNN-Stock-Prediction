@@ -19,11 +19,7 @@
 - **Macro Data**: FRED (GDP, Unemployment, CPI).  
 
 ## 📊 Results  
-![MSE Plot](mse_plot.png)  
+![image](https://github.com/user-attachments/assets/3d2a005d-f3cc-4ef6-a1e8-86a05d656af4)
 *Test MSE over time with expanding window.*  
 
-## 🛠️ How to Run  
-```bash
-git clone https://github.com/yourusername/Stock-Prediction-LSTM-GNN.git  
-pip install -r requirements.txt  
-python train.py  
+
